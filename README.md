@@ -62,7 +62,7 @@ Ensure you have the following installed on your system:
 
 5. **Open your browser and navigate to:**
    ```bash
-   http://localhost:5000
+   http://localhost:5002
 
 
 ### Usage
