@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# dotenv files (contains secrets)
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.DS_Store
+
+# OS-specific files
+Thumbs.db
+
+# Optional: Avoid build artifacts
+dist/
+build/
